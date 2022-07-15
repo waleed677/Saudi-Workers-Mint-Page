@@ -293,7 +293,7 @@ function Home() {
               <s.connectButton
                 style={{
                   textAlign: "center",
-                  color: "#d5c97d",
+                  color: "var(--primary)",
                   cursor: "pointer",
                 }}
                 disabled={state == 0 ? 1 : 0}
@@ -313,7 +313,7 @@ function Home() {
             <s.connectButton
               style={{
                 textAlign: "center",
-                color: "#d5c97d",
+                color: "var(--primary)",
                 cursor: "pointer",
               }}
             >
@@ -323,7 +323,7 @@ function Home() {
             <s.TextDescription
               style={{
                 textAlign: "center",
-                color: "#d5c97d",
+                color: "var(--primary)",
                 cursor: "pointer",
               }}
             >

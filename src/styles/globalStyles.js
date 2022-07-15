@@ -130,7 +130,7 @@ export const Mint = styled.div`
   top: 50%;
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
-  background: rgba(0,0,0,0.9);
+  background: rgba(199,255,127,0.8);
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 
   @media screen and (max-width: 1024px) {
@@ -174,7 +174,7 @@ export const Image = styled.img`
 
 export const Line = styled.hr`
   width: 100%;
-  border: 1px solid #d5c97d;
+  border: 1px solid var(--primary);
 `;
 
 export const FlexContainer = styled.div`
