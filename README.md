@@ -7,7 +7,7 @@ https://www.thesaudiworkers.com
 
 # Fleek Web access
 
-https://noisy-base-2897.on.fleek.co
+https://luminous-crisp-7b467f.netlify.app/
 
 ## Installation
 
