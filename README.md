@@ -1,8 +1,8 @@
-# Lizard Man Group NFT's Mint Page
+# The Saudi Workers NFT's Mint Page
 
 
 ## Website Link
-https://www.lizardmangroup.com/
+https://www.thesaudiworkers.com
 
 
 # Fleek Web access
@@ -26,7 +26,7 @@ https://noisy-base-2897.on.fleek.co
 
 
 # Contract Address
-0x54fD9F882bc4BFE0848008496E6f2795CfB403de
+0x0eAB7a4C9F78325Cc4486c82Fb53e360a778c252
 
 
 You can hire me for blockchain work on
