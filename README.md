@@ -1,4 +1,4 @@
-# Lizard Man Group NFT's Mint Page
+# The Saudi Workers NFT's Mint Page
 
 
 ## Website Link
