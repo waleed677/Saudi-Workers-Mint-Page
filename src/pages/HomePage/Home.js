@@ -190,12 +190,12 @@ function Home() {
       setMax(0);
     }
     else if (currentState == 1) {
-      let maxFree = await contract.methods.maxFree().call();
-      setTotalFreeSupply(maxFree);
-      if(totalSupply >= maxFree){
-        setDisable(true);
-        setFeedback(`All Free Mints are used up.`);
-      }
+//       let maxFree = await contract.methods.maxFree().call();
+//       setTotalFreeSupply(maxFree);
+//       if(totalSupply >= maxFree){
+//         setDisable(true);
+//         setFeedback(`All Free Mints are used up.`);
+//       }
 
       let freeMintCost = 0.00;
       setNftCost(freeMintCost);
